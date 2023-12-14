@@ -61,8 +61,8 @@ documentation:
     - btn2
     - btn3
     - btn4
-    - clk1
-    - clk3
+    - none
+    - none
     - none
     - none
 # A description of what the outputs do
