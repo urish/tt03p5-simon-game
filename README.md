@@ -20,19 +20,6 @@ add a new color at the end of the sequence, and move to the next turn.
 
 The game continues until the user has made a mistake. Then a game over sound is played, and the game restarts.
 
-## Clock configuration
-
-The game supports four clock speeds, which can be selected using the clk3 and clk1 inputs:
-
-| clk3 | clk1 | Clock Speed |
-|------|------|-------------|
-| 0    | 0    | 4KHz        |
-| 0    | 1    | 6KHz        |
-| 1    | 0    | 12KHz       |
-| 1    | 1    | 14KHz       |
-
-Setting the clock speed affects the speed of the game and the tone generator.
-
 ## Online simulation
 
 You can play the game using the online Wokwi simulation at https://wokwi.com/projects/352319274216569857. The simulation also shows the wiring diagram.
